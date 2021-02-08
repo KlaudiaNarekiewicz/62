@@ -30,7 +30,7 @@ int main()
     plik.close();
 
     cout << "najmniejsza liczba " << dec << minimum << " dziesietnie " << oct << minimum << " osemkowo\n";
-    cout << "najwieksza liczba " << dec << maximum << " dziesietnie " << oct << maximum << " osemkowo\n\n";
+    cout << "najwieksza liczba " << dec << maximum << " dziesietnie " << oct << maximum << " osemkowo\n";
 
     return 0;
 }
